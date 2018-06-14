@@ -1,0 +1,22 @@
+{
+  "name": "twitter_api_front",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "auth0-lock": "^11.7.2",
+    "axios": "^0.18.0",
+    "react": "^16.4.0",
+    "react-dom": "^16.4.0",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.1.4",
+    "react-simple-storage": "^1.1.0",
+    "twitter-node-client": "0.0.6"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "proxy": "http://localhost:8080/"
+}

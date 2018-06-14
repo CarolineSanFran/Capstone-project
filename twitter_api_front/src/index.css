@@ -1,0 +1,171 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+
+
+.app-blue {
+  color: #5994CF
+}
+
+#homePageHero {
+  background-image: url(/img/love-by-fabrizio-verrecchia-195644-unsplash_Jumbotron.jpg); 
+  background-size: cover;
+  font-weight: bold;
+  
+  
+}
+
+.lead {
+  color:#784075
+  
+}
+
+
+.twitter-tweet {
+  display: inline-block;
+  font-family: Roboto, "Helvetica Neue", "Segoe UI", Calibri, sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+  line-height: 16px;
+  border-color: #eee #ddd #bbb;
+  border-radius: 5px;
+  border-style: solid;
+  border-width: 1px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.15);
+  margin: 10px 5px;
+  padding: 0 16px 16px 16px;
+  max-width: 468px;
+}
+
+
+
+.twitter-tweet p {
+  font-size: 16px;
+  font-weight: normal;
+  line-height: 20px;
+}
+
+.twitter-tweet a {
+  color: inherit;
+  font-weight: normal;
+  text-decoration: none;
+  outline: 0 none;
+}
+
+blockquote.twitter-tweet a:hover,
+blockquote.twitter-tweet a:focus {
+  text-decoration: underline;
+}
+
+
+
+.twitter-signin {
+  display: inline-block;
+  font-family: Roboto, "Helvetica Neue", "Segoe UI", Calibri, sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+  line-height: 16px;
+  border-color: #eee #ddd #bbb;
+  border-radius: 5px;
+  border-style: solid;
+  border-width: 1px;
+  box-shadow: 0 1px 3px #5994CF;
+  margin: 10px 5px;
+  padding: 0 16px 16px 16px;
+  max-width: 468px;
+  text-align: center;
+}
+
+.btn-caroline-down {
+  color: #D41E76;
+  background-color: rgb(187, 7, 97);
+  border-color: rgb(187, 7, 97)
+}
+.btn-caroline-down.focus,
+.btn-caroline-down:focus {
+  color: #fff;
+  background-color:rgb(187, 7, 97);
+  border-color: rgb(172, 98, 149)
+}
+.btn-caroline-down:hover {
+  color: #fff;
+  background-color: rgb(187, 7, 97);
+  border-color: #D41E76
+}
+.btn-caroline-down.active,
+.btn-caroline-down:active,
+.open>.dropdown-toggle.btn-caroline {
+  color: #fff;
+  background-color: rgb(187, 7, 97);
+  border-color:  rgb(187, 7, 97);
+}
+
+
+
+.btn-caroline {
+  color: #fff;
+  background-color: #5994CF;
+  border-color: #4586C7
+}
+.btn-caroline.focus,
+.btn-caroline:focus {
+  color: #fff;
+  background-color: #4586C7;
+  border-color: #4586C7
+}
+.btn-caroline:hover {
+  color: #fff;
+  background-color: #4586C7;
+  border-color: #4586C7
+}
+.btn-caroline.active,
+.btn-caroline:active,
+.open>.dropdown-toggle.btn-caroline {
+  color: #fff;
+  background-color: #4586C7;
+  border-color: #4586C7
+}
+.btn-caroline.active.focus,
+.btn-caroline.active:focus,
+.btn-caroline.active:hover,
+.btn-caroline:active.focus,
+.btn-caroline:active:focus,
+.btn-caroline:active:hover,
+.open>.dropdown-toggle.btn-caroline.focus,
+.open>.dropdown-toggle.btn-caroline:focus,
+.open>.dropdown-toggle.btn-caroline:hover {
+  color: #fff;
+  background-color: #4586C7;
+  border-color: #4586C7
+}
+.btn-caroline.active,
+.btn-caroline:active,
+.open>.dropdown-toggle.btn-caroline {
+  background-image: none
+}
+.btn-caroline.disabled.focus,
+.btn-caroline.disabled:focus,
+.btn-caroline.disabled:hover,
+.btn-caroline[disabled].focus,
+.btn-caroline[disabled]:focus,
+.btn-caroline[disabled]:hover,
+fieldset[disabled] .btn-caroline.focus,
+fieldset[disabled] .btn-caroline:focus,
+fieldset[disabled] .btn-caroline:hover {
+  background-color: #337ab7;
+  border-color: #2e6da4
+}
+.btn-caroline .badge {
+  color: #5994CF;
+  background-color: #fff
+}
+
+.carousel h5 {
+  font-weight: bold;
+  color: black;
+
+}

@@ -1,0 +1,20 @@
+{
+  "name": "twitter_api_back",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "connect-ensure-login": "^0.1.1",
+    "dotenv": "^6.0.0",
+    "passport": "^0.4.0",
+    "passport-auth0": "^0.6.1",
+    "twitter": "^1.7.1",
+    "twitter-node-client": "git+https://github.com/BoyCook/TwitterJSClient.git"
+  }
+}
